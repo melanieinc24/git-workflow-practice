@@ -1,1 +1,6 @@
-Test data workflow
+Test Git data workflow
+
+Run through these commands:
+- commit
+- branch 
+- merge
