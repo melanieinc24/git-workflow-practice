@@ -1,3 +1,5 @@
 # My Project
 
-Overview of this product that contains Features A and B.
+
+This is the Feature A version.
+
