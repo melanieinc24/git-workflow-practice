@@ -1,6 +1,10 @@
+
 Welcome to instructions
 Step 1: Read the guide carefully
 Step 2: Follow all instructions
-This is Branch A
 
-New addition from task/branch-a
+Read the documentation first
+Then follow the examples
+
+Updated from GitHub!
+
