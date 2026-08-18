@@ -1,1 +1,4 @@
 Welcome to instructions
+Read the documentation first
+Then follow the examples
+This is Branch B with extra notes
